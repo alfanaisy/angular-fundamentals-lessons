@@ -42,7 +42,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   item = {
     name: 'Treasure Trove Trunk',
-    price: 30,
+    price: 35,
     description:
       'Unveil a treasure trove of surprises in this delightful mystery box.',
   };
